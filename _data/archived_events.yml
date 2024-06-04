@@ -1,0 +1,94 @@
+- category: 2024
+  events:
+    - venue: Horoteka
+      address: Klub ARKA
+      town: Kraków
+    - venue: Noc tańca
+      address: Dworek białoprądnicki
+      town: Kraków
+- category: 2023
+  events:
+    - venue: Kolędowanie dla dzieci z Ukrainy
+      town: Kraków
+      address: Klub ARKA
+    - venue: Bałkański Sylwester z Sokol Orkestar
+      town: Kraków
+      address: Klub ARKA
+    - venue: Jubileuszowe zgrupowanie taneczne zespołu
+      town: Tęgoborza
+    - venue: Koncerty jubileuszowe
+      town: Kraków
+      address: NCK
+- category: 2022
+  events:
+    - venue: Warsztaty śpiewu białego z Kasią Brodą-Firlą
+      town: Kraków
+    - venue: Kapele Serc dla Ukrainy
+      town: Kraków
+      address: NCK
+    - venue: Hidirellez - tureckie święto wiosny, Koło Naukowe Turkologów UJ
+      town: Kraków
+      address: Klub Żaczek
+    - venue: Święto bułgarskiej oświaty i kultury oraz piśmiennictwa słowiańskiego
+      town: Kraków
+      address: Willa Decjusza
+    - venue: Święto Dzielnicy III
+      town: Kraków
+      address: Stadion Wieczysta
+    - venue: Noc Tańca
+      town: Kraków
+      address: Rynek Podgórski
+    - venue: Noc Tańca
+      town: Kraków
+      address: Dworek Białoprądnicki
+    - venue: Festiwal Szalone Dni Muzyki, Potańcówka na Grochowskiej z Bum Bum Orkestar
+      town: Warszawa
+    - venue: Festiwal w Miechowie
+    - venue: Ślub polsko-bułgarski
+      town: Rzeszów
+    - venue: Zasmakuj z UR
+      town: Kraków
+    - venue: Zgrupowanie taneczne zespołu
+      town: Tęgoborza
+    - venue: 28 Międzynarodowe Targi Turystyczne TT
+      town: Warszawa, Nadarzyn
+    - venue: Ile waży dziedzictwo muzyczne - wieczór z bułgarskim tańcem ludowym
+      town: Warszawa
+    - venue: Koncert Mikołajkowy dla dzieci z rodzin wojskowych
+      town: Kraków
+    - venue: Warsztaty i koncert dla dzieci z Ukrainy
+      town: Kraków
+      address: MDK
+- category: 2021
+  events:
+    - venue: Noc Tańca
+      town: Kraków
+      address: Rynek Podgórski
+    - venue: Festiwal folklorystyczny
+      town: Miechów
+    - venue: Małopolski festiwal smaków
+      town: Miechów
+    - venue: Wesele polkso-bułgarskie
+      address: Dwór w Świlczy, k. Rzeszowa
+    - venue: Małopolskie targi żywności Zasmakuj z UR i Małopolska giełda agroturystyczna
+      town: Kraków
+      address: Dworek UR
+    - venue: Zgrupowanie zespołu
+      town: Gołkowice
+- category: 2020
+  events:
+    - venue: Bałkańsko-ukraiński sylwester z Pannoniką
+      town: Kraków
+      address: Klub Forty Kleparz
+    - venue: Tańczymy horo w Balkanie
+      town: Kraków
+      address: Balkan
+    - venue: IX Noc Świętojańska
+      town: Tenczynek
+      address: nad Stawem Wrońskim
+    - venue: Festyn rodzinny w Skotnikach
+      town: Kraków
+      address: Centrum Kultury Podgórza, Klub Skotniki
+    - venue: Salon artystyczny B.A. Syłomon, Wieczór Bałkański - Noc Poezji
+      town: Kraków
+      address: Centrum Kultury Podgórza, Klub Wola Duchacka

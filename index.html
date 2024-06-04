@@ -2,3 +2,17 @@
 layout: default
 ---
 <h1>Iglika</h1>
+<section class="hero">
+  <img src="/assets/img/nck.jpg" alt="Iglika na scenie" title="Iglika na scenie (fot. Wojciech Korpusik)"/>
+</section>
+
+<div class="grid">
+{% for quote in site.data.quotes %}
+<blockquote>
+  {{ quote.text }}
+  <footer>
+    <cite>- {{ quote.author }}</cite>
+  </footer>
+</blockquote>
+{% endfor %}
+</div>
