@@ -1,3 +1,68 @@
+@media only screen and (max-width: 600px) {
+  .only-big-screen {
+    display: none;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .only-small-screen {
+    display: none;
+  }
+}
+
+main {
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+}
+
+article {
+  border-width: 0.05em;
+  border-style: solid;
+  border-radius: 0.5em;
+  text-align: center;
+}
+
+article header {
+  text-align: center;
+  background-color: #33cc33;
+}
+
+table th {
+  text-align: center;
+}
+table td {
+  text-align: center;
+}
+
+article footer {
+  text-align: center;
+  font-size: 80%;
+}
+
 footer {
   text-align: center;
 }
+
+.hero {
+  text-align: center;
+  border: none;
+}
+
+img {
+  border-radius: 0.5em;
+}
+
+blockquote {
+  font-size: 70%;
+}
+
+h1 {
+  padding: 0.5em;
+  border-width: 0.05em;
+  border-style: solid;
+  border-radius: 0.5em;
+  background-color: #dd3300;
+}
+

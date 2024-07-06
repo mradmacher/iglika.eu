@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<h1>Wydarzenia</h1>
+<article>
+{% for event in site.data.events %}
+  <div class="grid">
+    <p>
+      <strong>{{ event.date }}</strong> <br />
+      <small>{{ event.hour }}</small>
+    </p>
+    <p>
+      {{ event.venue }}
+    </p>
+    <p>
+      {%- if event.address -%} {{ event.address }},&nbsp; {%- endif -%}
+      {{ event.town }}
+    </p>
+  </div>
+  <hr />
+{% endfor %}
+</article>
+
+<article>
+  <header>
+    <h2>Archiwum</h2>
+  </header>
+  {% for event_group in site.data.archived_events %}
+  <table class="striped">
+    <thead>
+      <tr>
+        <th>{{ event_group.category }}</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for event in event_group.events %}
+      <tr>
+        <td>
+          {{ event.venue }}
+          {%- if event.town -%}, {{ event.town }} {%- endif -%}
+          {%- if event.address -%}, {{ event.address }} {%- endif %}
+        </td>
+      </tr>
+    {% endfor %}
+      <tr>
+    </tbody>
+  </table>
+  {% endfor %}
+
+  <table>
+    <thead>
+      <tr>
+        <th>2019<br />.<br />.<br />.<br />2001</th>
+      </tr>
+    </thead>
+  </table>
+</article>
