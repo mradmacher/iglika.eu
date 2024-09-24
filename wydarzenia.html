@@ -17,6 +17,16 @@ layout: default
       {%- if event.address -%} {{ event.address }},&nbsp; {%- endif -%}
       {{ event.town }}
     </p>
+    <p>
+    {%- if event.img -%}
+      <a href="{{ event.img }}" target="_blank"><img src="{{ event.img }}" /></a>
+    {%- endif -%}
+    </p>
+    <p>
+    {%- if event.link -%}
+      <a href="{{ event.link.url }}">{{ event.link.title }}</a>
+    {%- endif -%}
+    </p>
   </div>
   <hr />
 {% endfor %}
