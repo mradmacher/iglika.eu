@@ -1,11 +1,19 @@
-- date: 01.03.2025
-  venue: Horoteka i warsztaty z wyplatania marteniczek
+- date: 27.04.2025
+  venue: Kapele serc
+  address: NCK
+  town: Kraków
+- date: 24.05.2025
+  venue: Horoteka
   address: Klub Akademicki ARKA
   town: Kraków
   link:
-    url: https://www.kupbilecik.pl/imprezy/156470/Krak%C3%B3w/Horoteka+-+Pota%C5%84c%C3%B3wka+Ba%C5%82ka%C5%84ska/
-    title: www.kupbilecik.pl
-  img: /assets/events/20250301-horoteka.jpg
+    url:
+    title:
+  img:
+- date: 14.06.2025
+  venue: Dni dzielnicy III
+  address: Stadion na ul. Wieczystej
+  town: Kraków
 - date: 15.08.2025
   venue: Pokaz na weselu polsko-bułgarskim
 - date: 06.09.2025
