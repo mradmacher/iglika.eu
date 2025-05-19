@@ -1,15 +1,11 @@
-- date: 27.04.2025
-  venue: Kapele serc
-  address: NCK
-  town: Kraków
 - date: 24.05.2025
   venue: Horoteka
   address: Klub Akademicki ARKA
   town: Kraków
   link:
-    url:
-    title:
-  img:
+    url: https://www.facebook.com/events/s/koncert-oraz-horoteka-z-zespo%C5%82/556188997528322/
+    title: Facebook
+  img: /assets/events/20250524-horoteka.jpg
 - date: 14.06.2025
   venue: Dni dzielnicy III
   address: Stadion na ul. Wieczystej
