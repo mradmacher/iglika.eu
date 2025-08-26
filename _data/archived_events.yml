@@ -1,11 +1,21 @@
 - category: 2025
   events:
+    - venue: Dni dzielnicy III
+      address: Stadion na ul. Wieczystej
+      town: Kraków
+    - venue: Wianki, Jarmark Świętojański
+      address: Bulwar Czerwieński
+      town: Kraków
+    - venue: Noc Tańca
+      town: Kraków
+      address: Plac Szczepański
     - venue: Kapele serc
       address: NCK
       town: Kraków
     - venue: Cykl Horotek
       address: Klub ARKA
       town: Kraków
+    - venue: Pokazy na weselach
 - category: 2024
   events:
     - venue: Targi Bożonarodzeniowe

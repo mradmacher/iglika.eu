@@ -1,19 +1,9 @@
-- date: 24.05.2025
-  venue: Horoteka
-  address: Klub Akademicki ARKA
-  town: Kraków
+- date: 30.08.2025
+  venue: Festa - Festiwal Kultury Południa Europy
+  town: Bolesławice
   link:
-    url: https://www.facebook.com/events/s/koncert-oraz-horoteka-z-zespo%C5%82/556188997528322/
-    title: Facebook
-  img: /assets/events/20250524-horoteka.jpg
-- date: 14.06.2025
-  venue: Dni dzielnicy III
-  address: Stadion na ul. Wieczystej
-  town: Kraków
-- date: 15.08.2025
-  venue: Pokaz na weselu polsko-bułgarskim
-- date: 06.09.2025
-  venue: Pokaz na weselu
+    url: https://www.facebook.com/events/1164464275459937/
+    title: Festa
 - date: 21-23.11.2025
   venue: Zgrupowanie jubileuszowe
   town: Tęgoborza
